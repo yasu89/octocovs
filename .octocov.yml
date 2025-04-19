@@ -1,10 +1,7 @@
 central:
   reports:
     datastores:
-      - artifact://k1LoW/octocov # delete this line
-      # - artifact://owner/repo
-      # - artifact://owner/other-repo
-      # - artifact://owner/another-repo
+      - artifact://yasu89/switch-bot-api-go
   badges:
     datastores:
       - local://badges
