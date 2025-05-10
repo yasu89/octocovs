@@ -2,6 +2,7 @@ central:
   reports:
     datastores:
       - artifact://yasu89/switch-bot-api-go
+      - artifact://yasu89/switch-bot-mcp-server
   badges:
     datastores:
       - local://badges
